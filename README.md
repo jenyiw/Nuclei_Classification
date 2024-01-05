@@ -14,7 +14,7 @@ The following packages are required to run the code:
 
 ## Running the code
 
-To run this code, run either main_cnn.py or main_gnn.py
+To run this code, first run stitch.py to obtain the stitched raw images. Then, run either main_cnn.py or main_gnn.py
 
 ## Authors
 

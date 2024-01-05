@@ -1,6 +1,6 @@
 # Nuclei classification using CNN and GNNs
 
-This code classifies nuclei based on DAPI fluorescence using a convolutional neural network or a graph neural network. The CNN is based on the standard ResNet34 archietecture. The GNN classification is based on calculated morphological features for each nuclei. The original use case for this code was a lung cancer image dataset consisting of more than 10000 nuclei images containing cancerous or normal lung cells. Work is in progress to extend the nuclei classification to identify cell types within the lung tissue.
+This code classifies nuclei based on DAPI fluorescence using a convolutional neural network (CNN) or a graph neural network (GNN). The CNN is based on the standard ResNet34 archietecture. The GNN classification is based on calculated morphological features for each nuclei. The original use case for this code was a lung cancer image dataset consisting of more than 10000 nuclei images containing cancerous or normal lung cells. Work is in progress to extend the nuclei classification to identify cell types within the lung tissue.
 
 ## Getting Started
 
